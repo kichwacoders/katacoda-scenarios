@@ -1,24 +1,22 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
-  "difficulty": "beginner",
-  "time": "2 minutes",
+  "title": "Getting Started with JShell and Eclipse January",
+  "description": "Using jshell in conjunction with january datasets",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
-    }],
+    "steps": [
+      { "title": "Creating a new dataset", "text": "step1.md" },
+      { "title": "Reshaping a dataset", "text": "step2.md" },
+      { "title": "Another way to create a dataset", "text": "step3.md" }
+    ],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "courseData": "env-init.sh"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "java8"
