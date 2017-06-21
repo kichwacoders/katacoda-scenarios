@@ -3,9 +3,10 @@
   "description": "Using jshell in conjunction with january datasets",
   "details": {
     "steps": [
-      { "title": "Creating a new dataset", "text": "step1.md" },
-      { "title": "Reshaping a dataset", "text": "step2.md" },
-      { "title": "Another way to create a dataset", "text": "step3.md" }
+      { "title": "Starting jshell", "text": "step1.md"},
+      { "title": "Creating a new dataset", "text": "step2.md" },
+      { "title": "Reshaping a dataset", "text": "step3.md" },
+      { "title": "Another way to create a dataset", "text": "step4.md" }
     ],
     "intro": {
       "text": "intro.md",
