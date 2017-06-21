@@ -7,6 +7,9 @@
       { "title": "Creating a new dataset", "text": "step2.md" },
       { "title": "Reshaping a dataset", "text": "step3.md" },
       { "title": "Another way to create a dataset", "text": "step4.md" }
+      { "title": "Shapes and ranks", "text": "step5.md" }
+      { "title": "Ranged datasets & Random datasets", "text": "step6.md" }
+      { "title": "Maths on datasets", "text": "step7.md" }
     ],
     "intro": {
       "text": "intro.md",
