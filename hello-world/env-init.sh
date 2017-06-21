@@ -1,3 +1,1 @@
-
-sudo "jshell"
-
+command jshell
