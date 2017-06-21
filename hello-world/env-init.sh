@@ -1,4 +1,3 @@
-jshell
 
 curl http://download.eclipse.org/tools/orbit/downloads/drops2/R20170516192513/repository/plugins/org.slf4j.api_1.7.10.v20170428-1633.jar > org.slf4j.api_1.7.10.v20170428-1633.jar
 curl http://download.eclipse.org/tools/orbit/downloads/drops2/R20170516192513/repository/plugins/org.slf4j.binding.nop_1.7.10.v20160301-1109.jar > org.slf4j.binding.nop_1.7.10.v20160301-1109.jar
