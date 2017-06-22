@@ -3,4 +3,4 @@ We then need to reshape it to be a 3×3 array. Run the code below to do just tha
 
 Running this gives the same result as the previous method.
 
-System.out.println(dataset.toString(true)){{execute}}
+`System.out.println(dataset.toString(true))`{{execute}}
