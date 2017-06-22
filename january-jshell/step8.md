@@ -8,7 +8,9 @@ First we create a dataset using the code below.
 Now say we want to extract 2,3,5 and 6 from the dataset.
 
 [1, 2, 3,
+
  4, 5, 6,
+ 
  7, 8, 9]
  
 As you can see this data resides in the first and second rows and the second and third columns.
