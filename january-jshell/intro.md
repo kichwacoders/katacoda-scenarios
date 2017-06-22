@@ -1,5 +1,7 @@
 # In this scenario we will look into how to create an array using eclipse january.
 
+
+
 ## What is January?
 
 Eclipse January is a set of libraries for handling numerical data in Java. It is inspired in part by NumPy and aims to provide similar functionality. 
