@@ -7,9 +7,10 @@
       { "title": "Creating a new dataset", "text": "step2.md" },
       { "title": "Reshaping a dataset", "text": "step3.md" },
       { "title": "Another way to create a dataset", "text": "step4.md" },
-      { "title": "Another way to create a dataset", "text": "step5.md" },
-      { "title": "Another way to create a dataset", "text": "step6.md" },
-      { "title": "Another way to create a dataset", "text": "step7.md" }
+      { "title": "Get shape & Get rank", "text": "step5.md" },
+      { "title": "Creating a dataset withing a range and creating a random dataset", "text": "step6.md" },
+      { "title": "Using math on datasets", "text": "step7.md" },
+      { "title": "Slicing datasets", "text": "step8.md" }
     ],
     "intro": {
       "text": "intro.md",
