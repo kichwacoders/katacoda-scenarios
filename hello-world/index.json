@@ -6,7 +6,7 @@
       { "title": "Starting jshell", "text": "step1.md"},
       { "title": "Creating a new dataset", "text": "step2.md" },
       { "title": "Reshaping a dataset", "text": "step3.md" },
-      { "title": "Another way to create a dataset", "text": "step4.md" }
+      { "title": "Another way to create a dataset", "text": "step4.md" },
       { "title": "Another way to create a dataset", "text": "step5.md" }
     ],
     "intro": {
