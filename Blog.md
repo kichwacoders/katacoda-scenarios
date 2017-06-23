@@ -9,9 +9,9 @@ I spread this across many steps which start with importing the January library a
 To create this, I started with katacoda's automated git setup which initialised a new repository with the foundations of a scenario.
 I wanted my scenario to start with jshell pre-initialised so the first thing I did was set the backend: imageid to java9 so that I could begin. 
 
-To initialise jshell I first had to download all of the jar files. I did this by echoing the curl --location commands for the jars into a file, called download-jars.sh. The next file I created was jshell.sh. In this file I ran `bash download-jars.sh` to download all the jar files and then afterwards run the command to initialise jshell. This was important as it ensured that the jshell command would not run until all of the jar files had been downloaded. 
+To initialise jshell I first had to download all of the jar files. I did this by echoing the `curl --location` commands for the jars into a file, called `download-jars.sh`. The next file I created was jshell.sh. In this file I ran `bash download-jars.sh` to download all the jar files and then afterwards run the command to initialise jshell. This was important as it ensured that the jshell command would not run until all of the jar files had been downloaded. 
 
-Next what I did was creating all the step text in markdown. In the end, I created 8 unique steps to guide people enough the process of creating and amending datasets. Finally, I configured the index.json file with all the steps and courseData. Each step was given a title and links to the relevant markdown file for the text. Furthermore, in step 1 there is a link to the jshell.sh file so that immediately as the scenario begins, jshell is initiated. 
+Next what I did was creating all the step text in markdown. In the end, I created 8 unique steps to guide people enough the process of creating and amending datasets. Finally, I configured the `index.json` file with all the steps and courseData. Each step was given a title and links to the relevant markdown file for the text. Furthermore, in step 1 there is a link to the jshell.sh file so that immediately as the scenario begins, jshell is initiated. 
 
 ### What did I find hard
 
